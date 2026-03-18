@@ -39,6 +39,26 @@
 
 ---
 
+## 3. Как я использую Claude Code — Boris Tane
+
+Перевод статьи **Boris Tane** «How I Use Claude Code» (10 февраля 2026) — дисциплинированный workflow из трёх фаз: Research → Plan → Implement, с циклом аннотаций как ключевым элементом контроля качества.
+
+### Оригинал
+- Автор: [Boris Tane](https://x.com/boristane)
+- Статья: [boristane.com/blog/how-i-use-claude-code/](https://boristane.com/blog/how-i-use-claude-code/)
+
+### Что внутри
+- Фаза исследования: research.md как «контекстный снимок» системы
+- Фаза планирования: plan.md вместо встроенного plan mode
+- Цикл аннотаций (1–6 раундов) — инжекция доменных знаний через inline-заметки
+- Промпты имплементации и паттерны обратной связи
+- Дополнения Opus 4.6 — связь с multi-agent SDLC и паттерном HANDOFF.md
+
+### Скачать
+- [boris_tane_claude_code_ru.pdf](./boris_tane_claude_code_ru.pdf)
+
+---
+
 ## Подготовил
 - [alienxs2](https://github.com/alienxs2)
 - Перевод и дополнения: Claude Opus 4.6 (Anthropic)
