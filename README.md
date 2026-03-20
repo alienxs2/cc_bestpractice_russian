@@ -59,6 +59,25 @@
 
 ---
 
+## 4. 50 советов и лучших практик Claude Code
+
+Перевод треда **Vishwas (Codevolution)** «50 Claude Code Tips and Best Practices For Daily Use» (19 марта 2026) — 50 практических советов от настройки и основ до продвинутых паттернов работы с Claude Code.
+
+### Оригинал
+- Автор: [Vishwas / Codevolution](https://x.com/CodevolutionWeb)
+- Тред: [x.com/CodevolutionWeb/status/2034683638382506063](https://x.com/CodevolutionWeb/status/2034683638382506063)
+
+### Что внутри
+- Настройка и основы: алиасы, горячие клавиши, LSP-плагины
+- Качество и обратная связь: тесты, линтеры, скриншоты
+- CLAUDE.md, хуки, MCP-серверы, мультиагентные паттерны
+- Дополнения Opus 4.6 в жёлтых блоках
+
+### Скачать
+- [50_claude_code_tips_ru.pdf](./50_claude_code_tips_ru.pdf)
+
+---
+
 ## Подготовил
 - [alienxs2](https://github.com/alienxs2)
 - Перевод и дополнения: Claude Opus 4.6 (Anthropic)
