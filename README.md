@@ -78,6 +78,26 @@
 
 ---
 
+## 5. Как я работаю с AI-агентами для кодинга — Daz
+
+Перевод статьи **Daz (Darren)** «How I Work with AI Coding Agents» (1 марта 2026) — взгляд tech lead с 25+ лет опыта: LLM stateless, набор инструментов вместо пайплайна, три точки ревью, управление контекстом и когнитивный долг.
+
+### Оригинал
+- Автор: [Daz (Darren)](https://daz.is) — tech lead, 25+ лет в разработке
+- Статья: [daz.is/blog/how-i-work-with-ai-coding-agents/](https://daz.is/blog/how-i-work-with-ai-coding-agents/)
+
+### Что внутри
+- Ключевой принцип: LLM stateless — каждый запуск начинается с нуля
+- Research → Plan → Implement как набор инструментов, а не жёсткий пайплайн
+- Три точки ревью вместо одной; бутылочное горлышко ревью
+- Конфигурация: детерминированное vs. инструкции; когнитивный долг
+- Дополнения Opus 4.6 — связь с workflow Boris Tane и Tw93
+
+### Скачать
+- [daz_ai_coding_agents_ru.pdf](./daz_ai_coding_agents_ru.pdf)
+
+---
+
 ## Подготовил
 - [alienxs2](https://github.com/alienxs2)
 - Перевод и дополнения: Claude Opus 4.6 (Anthropic)
