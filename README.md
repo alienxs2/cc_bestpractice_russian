@@ -98,6 +98,25 @@
 
 ---
 
+## 6. Я построил язык программирования с Claude Code — Ankur Sethi
+
+Перевод статьи **Ankur Sethi** «I built a programming language using Claude Code» (10 марта 2026) — кейс создания языка Cutlet за 4 недели и четыре ключевых навыка агентной инженерии.
+
+### Оригинал
+- Автор: [Ankur Sethi](https://ankursethi.com) — фронтенд-разработчик, независимый консультант ([github.com/s3thi](https://github.com/s3thi))
+- Статья: [ankursethi.com/blog/programming-language-claude-code/](https://ankursethi.com/blog/programming-language-claude-code/)
+
+### Что внутри
+- Кейс: язык Cutlet (лексер, парсер, интерпретатор, REPL) за 4 недели
+- 4 навыка агентной инженерии: понимание задач LLM, коммуникация намерений, среда для агента, оптимизация цикла
+- Размышления: мертва ли software engineering, кредит за работу Claude, влияние на ментальное здоровье
+- Дополнения Opus 4.6
+
+### Скачать
+- [ankur_sethi_cutlet_ru.pdf](./ankur_sethi_cutlet_ru.pdf)
+
+---
+
 ## Подготовил
 - [alienxs2](https://github.com/alienxs2)
 - Перевод и дополнения: Claude Opus 4.6 (Anthropic)
