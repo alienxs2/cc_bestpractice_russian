@@ -117,6 +117,26 @@
 
 ---
 
+## 7. Мой опыт с Claude Code — Bruce Wilson
+
+Перевод статьи **Bruce E. Wilson** «My Experience with Claude Code: AI-Assisted Development in Practice» (11 марта 2026) — опыт учёного-практика (химик, 25+ лет в разработке, Oak Ridge National Laboratory), вернувшегося к программированию после долгого перерыва.
+
+### Оригинал
+- Автор: [Bruce E. Wilson](https://x.com/usethedata) — Distinguished R&D Staff, Oak Ridge National Laboratory ([github.com/usethedata](https://github.com/usethedata))
+- Статья: [podfeet.com/blog/2026/03/claude-code-bruce/](https://www.podfeet.com/blog/2026/03/claude-code-bruce/) (Podfeet Podcasts)
+
+### Что внутри
+- Контекст: доменный эксперт, а не профессиональный разработчик
+- Четыре ключевых наблюдения о работе с Claude Code
+- CLAUDE.md как контекст проекта; токены и rate limits
+- Итеративное определение фич; рабочий workflow разработки
+- Вопросы о trade-offs; дополнения Opus 4.6
+
+### Скачать
+- [bruce_wilson_claude_code_ru.pdf](./bruce_wilson_claude_code_ru.pdf)
+
+---
+
 ## Подготовил
 - [alienxs2](https://github.com/alienxs2)
 - Перевод и дополнения: Claude Opus 4.6 (Anthropic)
