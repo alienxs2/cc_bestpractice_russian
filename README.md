@@ -137,6 +137,27 @@
 
 ---
 
+## 8. Анатомия папки .claude/ — Akshay Pachaar
+
+Перевод треда **Akshay Pachaar** «Everything inside your .claude folder — and how to actually use it» (21 марта 2026) — полный разбор структуры папки `.claude/`: два уровня конфигурации, CLAUDE.md, rules/, commands/, skills/, agents/, settings.json и план внедрения.
+
+### Оригинал
+- Автор: [Akshay Pachaar](https://x.com/akshay_pachaar)
+- Тред: [x.com/akshay_pachaar/status/2035341800739877091](https://x.com/akshay_pachaar/status/2035341800739877091)
+
+### Что внутри
+- Две папки `.claude/`: проектная (team config) и домашняя (personal config)
+- CLAUDE.md и CLAUDE.local.md — инструкции и личные переопределения
+- Папка rules/: модульные инструкции; commands/: пользовательские slash-команды
+- Папка skills/: рабочие процессы по запросу; agents/: специализированные субагенты
+- settings.json: разрешения и конфигурация; глобальная папка ~/.claude/
+- Дополнения Opus 4.6 — связь с паттернами Tw93, Boris Tane и multi-agent SDLC
+
+### Скачать
+- [akshay_claude_folder_ru.pdf](./akshay_claude_folder_ru.pdf)
+
+---
+
 ## Подготовил
 - [alienxs2](https://github.com/alienxs2)
 - Перевод и дополнения: Claude Opus 4.6 (Anthropic)
